@@ -1,4 +1,4 @@
-package NEU.Week9;
+package NEU.Week09;
 
 public class graph_ProvincesNum_547 {
     public int findCircleNum(int[][] isConnected) {
